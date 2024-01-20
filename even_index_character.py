@@ -14,5 +14,6 @@ print("Here are all even index letters")
 word_length = len(random_word)
 
 # only present even index number
-
+for i in range (0, word_length,2):
 # print all even index character
+    print (random_word[i])
