@@ -11,6 +11,7 @@ print ("You enter the word", random_word)
 print("Here are all even index letters")
 
 # determine the length of the word
+word_length = len(random_word)
 
 # only present even index number
 
