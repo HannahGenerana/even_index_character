@@ -4,8 +4,11 @@
 # pseudocode
 
 # ask user to input a word
+random_word = input ("Kindly input a word:")
 
 # print the word 
+print ("You enter the word", random_word)
+print("Here are all even index letters")
 
 # determine the length of the word
 
